@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Retired 2026-05-20.** This self-hosted Kutt instance has been replaced by
+> the serverless nfca.cc URL shortener (a CloudFront Function backed by a
+> KeyValueStore, with links managed as code). See
+> [nfc-assure/nfca-shortener](https://github.com/nfc-assure/nfca-shortener).
+> The `fcsafety.xyz` short links now resolve through that system.
+
+---
+
 <p align="center"><a href="https://kutt.it" title="kutt.it"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="Kutt.it"></a></p>
 
 # Kutt.it
